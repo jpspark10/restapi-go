@@ -2,7 +2,7 @@ is_debug: true
 server:
   type: port
   host: localhost
-  port: 1337
+  port: 1234
 mongodb:
   host: localhost
   port: 27017
